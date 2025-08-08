@@ -14,7 +14,8 @@ Project consists of creating a virtual machine with the Kali Linux distribution 
 <h2>Project Walkthrough</h2>
 
 <p align="center">
-Install Oracle VM VirtualBox software from https://www.virtualbox.org/wiki/Downloads. Choose the installer for the OS you are using. <br/>
+Install Oracle VM VirtualBox software from https://www.virtualbox.org/wiki/Downloads. Choose the installer for the OS you are using. <br/><br/>
+ 
 <img src="https://i.imgur.com/Jg80JqP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
